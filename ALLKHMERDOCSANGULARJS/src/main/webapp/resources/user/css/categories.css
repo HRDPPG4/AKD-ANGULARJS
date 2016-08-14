@@ -1,0 +1,73 @@
+.topspace-cates{
+  overflow: hidden;
+   margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row-cates-content{
+  padding: 0px;
+    margin: 0 auto;
+}
+
+#left-side-nav{
+ margin:0px;
+ padding:3px;
+ position: relative;
+}
+ ul.category-menu {
+ margin:0px;
+ padding:0px;
+	 background-color: white;
+	 list-style-type:none;
+	 
+	 
+}
+ul.category-menu li.bg-cate{
+	margin-left:10px;
+	padding:10px;
+	color:white;
+	border-left:10px solid red;
+	background-color: #003666;
+}
+ul.category-menu li.cates-main{
+	font-family:"Times New Roman",Khmer OS Battambang;
+	font-size:14px;
+	margin-left:10px;
+	padding:10px;
+	background-color: white;
+	color:#000;
+}
+li.cates-main a{
+	display: block;
+    color: #000;
+    margin-bottom:-9px;
+    margin-top:-9px;
+    margin-left:-10px;
+    margin-right:-10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-bottom: 1px dashed #003666;
+}
+li.cates-main a:hover{
+	 background-color:#003666;
+    color: white;
+}
+
+
+.left-side-nav, .body-cates, .right-side-cate {
+    float: left;
+}
+
+.body-cates{
+    position: relative;
+    margin:0px;
+    padding:0px;
+   
+}
+
+.fa-arrow-circle-down{
+	padding-left:10px;
+	padding-right:10px;
+	padding-left:90px;
+}
+
